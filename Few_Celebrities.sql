@@ -1,3 +1,3 @@
 SELECT Name,Age
 FROM Celebrities_list
-WHERE Age >= 40
+WHERE Age >= 30
